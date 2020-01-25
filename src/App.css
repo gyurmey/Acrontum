@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+ */
+
+/* 
+ .container {
+   display: flex;
+    flex-direction: row;
+   
+ } */
+
+ *{
+   margin-top: 20px;
+ }
+
+ .park-level {
+  display: flex;
+  flex-direction: row;
+ 
+ }
+
+ .item{
+   background: #f4f4f4;
+   border: #ccc solid 1px;
+   padding: 1rem;
+   
+ }
