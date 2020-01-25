@@ -5,7 +5,7 @@ import {   COUNTER, ERROR} from '../actions/types';
 
 const initialState  = {
     slots : true,
-    counter: [0],
+    counter: [null],
     error : null
 }
 
